@@ -1,0 +1,14 @@
+D:\Praticando-c#\Estrutura de decisão\Estrutura-de-decisão\Estrutura-de-decisão\bin\Debug\netcoreapp3.1\Estrutura-de-decisão.exe
+D:\Praticando-c#\Estrutura de decisão\Estrutura-de-decisão\Estrutura-de-decisão\bin\Debug\netcoreapp3.1\Estrutura-de-decisão.deps.json
+D:\Praticando-c#\Estrutura de decisão\Estrutura-de-decisão\Estrutura-de-decisão\bin\Debug\netcoreapp3.1\Estrutura-de-decisão.runtimeconfig.json
+D:\Praticando-c#\Estrutura de decisão\Estrutura-de-decisão\Estrutura-de-decisão\bin\Debug\netcoreapp3.1\Estrutura-de-decisão.runtimeconfig.dev.json
+D:\Praticando-c#\Estrutura de decisão\Estrutura-de-decisão\Estrutura-de-decisão\bin\Debug\netcoreapp3.1\Estrutura-de-decisão.dll
+D:\Praticando-c#\Estrutura de decisão\Estrutura-de-decisão\Estrutura-de-decisão\bin\Debug\netcoreapp3.1\Estrutura-de-decisão.pdb
+D:\Praticando-c#\Estrutura de decisão\Estrutura-de-decisão\Estrutura-de-decisão\obj\Debug\netcoreapp3.1\Estrutura-de-decisão.csproj.AssemblyReference.cache
+D:\Praticando-c#\Estrutura de decisão\Estrutura-de-decisão\Estrutura-de-decisão\obj\Debug\netcoreapp3.1\Estrutura-de-decisão.GeneratedMSBuildEditorConfig.editorconfig
+D:\Praticando-c#\Estrutura de decisão\Estrutura-de-decisão\Estrutura-de-decisão\obj\Debug\netcoreapp3.1\Estrutura-de-decisão.AssemblyInfoInputs.cache
+D:\Praticando-c#\Estrutura de decisão\Estrutura-de-decisão\Estrutura-de-decisão\obj\Debug\netcoreapp3.1\Estrutura-de-decisão.AssemblyInfo.cs
+D:\Praticando-c#\Estrutura de decisão\Estrutura-de-decisão\Estrutura-de-decisão\obj\Debug\netcoreapp3.1\Estrutura-de-decisão.csproj.CoreCompileInputs.cache
+D:\Praticando-c#\Estrutura de decisão\Estrutura-de-decisão\Estrutura-de-decisão\obj\Debug\netcoreapp3.1\Estrutura-de-decisão.dll
+D:\Praticando-c#\Estrutura de decisão\Estrutura-de-decisão\Estrutura-de-decisão\obj\Debug\netcoreapp3.1\Estrutura-de-decisão.pdb
+D:\Praticando-c#\Estrutura de decisão\Estrutura-de-decisão\Estrutura-de-decisão\obj\Debug\netcoreapp3.1\Estrutura-de-decisão.genruntimeconfig.cache
